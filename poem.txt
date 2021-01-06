@@ -7,4 +7,5 @@ green
 blue
 purple
 indigo
+white
 These are the colors of the rainbow
