@@ -8,4 +8,5 @@ blue
 purple
 indigo
 white
+black
 These are the colors of the rainbow
