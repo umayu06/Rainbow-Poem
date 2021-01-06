@@ -1,4 +1,4 @@
-The Rainbow and the unicorn
+The Rainbow and the unicorn and the pony
 
 red
 orange
@@ -11,3 +11,4 @@ unicorn
 black
 These are the colors of the rainbow
 and the unicorn
+pony
